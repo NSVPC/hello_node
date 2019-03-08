@@ -1,1 +1,1 @@
-console.log('Node is installed!,Get ready to use');
+console.log('Node is installed!');
